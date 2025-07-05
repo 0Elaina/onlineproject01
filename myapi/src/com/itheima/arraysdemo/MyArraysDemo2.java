@@ -2,6 +2,7 @@ package com.itheima.arraysdemo;
 
 import java.util.Arrays;
 import java.util.Comparator;
+import java.util.Random;
 
 public class MyArraysDemo2 {
     public static void main(String[] args) {
@@ -45,5 +46,6 @@ public class MyArraysDemo2 {
             }
         });
         System.out.println(Arrays.toString(arr));
+
     }
 }
